@@ -16,8 +16,8 @@ To implement SARIMA model using python.
 
 ### PROGRAM:
 ```
-Developed By : G Venkata Pavan Kumar
-Reg. No. : 212221240013
+Developed By : A Joans Jay Authers  
+Reg. No. : 212221240019
 ```
 ```
 import pandas as pd
